@@ -4,8 +4,8 @@ Overview
 Download the dataset from the following link: https://www.kaggle.com/datasets/saurabhshahane/sea-forecast-and-waves-classification
 
 Make sure to place the downloaded files in the root directory of this project (or specify the required path if different).
-Instructions
 
+Instructions
 1. Merge the Data
     Run the following script to merge the data files: python MergeData.py
 
